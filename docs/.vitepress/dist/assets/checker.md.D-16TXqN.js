@@ -1,0 +1,1 @@
+import{_ as e,o as t,c}from"./chunks/framework.GL3COBAC.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"checker.md","filePath":"checker.md"}'),r={name:"checker.md"};function a(o,s,n,p,_,d){return t(),c("div")}const f=e(r,[["render",a]]);export{m as __pageData,f as default};
