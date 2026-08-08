@@ -1,6 +1,7 @@
 export default {
   title: 'Nodelly',
   description: 'A lightweight Node.js utility library',
+  base: '/Nodelly-Docs/',
 
   themeConfig: {
     nav: [
