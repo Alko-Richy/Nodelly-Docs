@@ -1,0 +1,1 @@
+import{_ as i,o as a,c as e,a0 as l}from"./chunks/framework.DfGbCkdx.js";const o=JSON.parse('{"title":"Regexes","description":"","frontmatter":{},"headers":[],"relativePath":"regexes.md","filePath":"regexes.md"}'),t={name:"regexes.md"};function n(h,s,p,k,r,E){return a(),e("div",null,[...s[0]||(s[0]=[l("",8)])])}const g=i(t,[["render",n]]);export{o as __pageData,g as default};

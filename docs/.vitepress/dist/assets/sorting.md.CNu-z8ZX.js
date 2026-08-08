@@ -1,1 +1,0 @@
-import{_ as t,o as e,c as r}from"./chunks/framework.GL3COBAC.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"sorting.md","filePath":"sorting.md"}'),o={name:"sorting.md"};function a(s,n,c,i,p,_){return e(),r("div")}const f=t(o,[["render",a]]);export{m as __pageData,f as default};

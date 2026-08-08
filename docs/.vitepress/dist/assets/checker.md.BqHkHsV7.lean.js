@@ -1,0 +1,1 @@
+import{_ as i,o as a,c as e,a0 as h}from"./chunks/framework.DfGbCkdx.js";const c=JSON.parse('{"title":"Checker","description":"","frontmatter":{},"headers":[],"relativePath":"checker.md","filePath":"checker.md"}'),t={name:"checker.md"};function n(k,s,p,l,r,E){return a(),e("div",null,[...s[0]||(s[0]=[h("",8)])])}const o=i(t,[["render",n]]);export{c as __pageData,o as default};

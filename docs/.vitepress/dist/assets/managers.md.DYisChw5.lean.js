@@ -1,1 +1,0 @@
-import{_ as e,o as a,c as t}from"./chunks/framework.GL3COBAC.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"managers.md","filePath":"managers.md"}'),r={name:"managers.md"};function s(n,o,c,m,p,_){return a(),t("div")}const f=e(r,[["render",s]]);export{i as __pageData,f as default};

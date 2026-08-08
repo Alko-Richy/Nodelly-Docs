@@ -1,0 +1,1 @@
+import{_ as i,o as a,c as t,a0 as l}from"./chunks/framework.DfGbCkdx.js";const E=JSON.parse('{"title":"Sorting","description":"","frontmatter":{},"headers":[],"relativePath":"sorting.md","filePath":"sorting.md"}'),n={name:"sorting.md"};function e(p,s,r,o,h,k){return a(),t("div",null,[...s[0]||(s[0]=[l("",12)])])}const c=i(n,[["render",e]]);export{E as __pageData,c as default};

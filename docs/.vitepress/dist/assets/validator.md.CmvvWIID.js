@@ -1,1 +1,0 @@
-import{_ as t,o as a,c as e}from"./chunks/framework.GL3COBAC.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"validator.md","filePath":"validator.md"}'),r={name:"validator.md"};function o(s,c,n,d,i,l){return a(),e("div")}const m=t(r,[["render",o]]);export{_ as __pageData,m as default};
