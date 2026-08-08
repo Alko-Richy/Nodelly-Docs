@@ -29,7 +29,7 @@ export default {
               { text: 'File Manager', link: '/managers/file-manager' },
               { text: 'Config Manager', link: '/managers/config-manager' }
             ]
-          }
+          },
           { text: 'Changelog', link: '/changelog' }
         ]
       }
